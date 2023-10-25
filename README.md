@@ -1,2 +1,2 @@
 # TC-manual
-Here i wrote some of my TC
+Here i write some of my TC
